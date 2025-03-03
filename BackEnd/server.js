@@ -1,4 +1,4 @@
-// dotenv package is used to access the variables in .env file GOOGLE_GEMINI_KEY=AIzaSyDIeBrty_rQyKt71w_eJZozpMLrk1JA7Qk
+// dotenv package is used to access the variables in .env file 
 require('dotenv').config()
 
 const app = require('./src/app')
