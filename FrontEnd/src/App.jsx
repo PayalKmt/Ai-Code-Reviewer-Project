@@ -29,6 +29,9 @@ function App() {
 
   return (
     <>
+      <header className="app-header">
+        <h1>AI Code Reviewer</h1>
+      </header>
       <main>
         <div className="left">
           <div className="code">

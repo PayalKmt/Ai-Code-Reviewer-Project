@@ -11,6 +11,23 @@ body,
   width: 100%;
 }
 
+/* Header */
+.app-header {
+  width: 100%;
+  padding: 1rem 0.5rem;
+  background-color: #1e1e2f;
+  border-bottom: 1px solid #2c2c3a;
+  text-align: center;
+}
+
+.app-header h1 {
+  color: #f3f4f6;
+  font-size: 1.8rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+
 main {
   height: 100%;
   width: 100%;
